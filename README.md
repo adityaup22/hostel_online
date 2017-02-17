@@ -1,2 +1,3 @@
 # hostel_online
-Test
+A web portal which enables users in LAN share resources
+
